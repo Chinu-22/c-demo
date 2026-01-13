@@ -1,4 +1,4 @@
 # c-demo
 this is my first git repo
 <br>
-author cj riddhi 
+author cj riddhi jangra
